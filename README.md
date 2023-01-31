@@ -1,6 +1,6 @@
 # Testing-Task-TestCases-CheckList
 
-I created a checklist and test cases for existing mockup of a login form
+I created a checklist and test cases for an existing mockup of the login page
 
 Preview:
 ![image](https://user-images.githubusercontent.com/116346013/215815147-ee7d542f-44b9-4152-8f49-35b0906a4643.png)
